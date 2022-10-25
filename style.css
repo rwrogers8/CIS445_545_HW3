@@ -22,7 +22,12 @@ img {
     border: 5px solid #f5f5f5;
   }
 
-  h2,p{
+  h2{
+    text-align: left;
+  }
+
+  p{
+    color: rgb(148, 151, 153);
     text-align: left;
   }
 
